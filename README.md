@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring/>
-<img src="https://img.shields.io/badge/Jsp/>
+<img src="https://img.shields.io/badge/Spring-F05032/>
+<img src="https://img.shields.io/badge-F05032/Jsp/>
 </div>
 
 <br/>
