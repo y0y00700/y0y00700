@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 안녕하세요! 신입개발자를 꿈꾸는 권민혁입니다! (Joy).<br/>
 만나서 반갑습니다 :)<br/>
 <h3>Contact</h3>
- Email:k509626@gmail.com
- PortFolio:
- GitHub:https://github.com/y0y00700
+ <p>Email:k509626@gmail.com<p>
+ <p>PortFolio:<p>
+ <p>GitHub:https://github.com/y0y00700<p>
 <br/><br/>
 
 ﹏﹏﹏﹏﹏﹏﹏
