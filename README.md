@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 만나서 반갑습니다 :)<br/>
 <h3>Contact</h3>
  <p>Email : k509626@gmail.com</p>
- <p>PortFolio : https://y0y00700.github.io/devportfolio/</p>
  <p>GitHub : https://github.com/y0y00700</p>
+ <p>PortFolio : https://y0y00700.github.io/devportfolio/</p>
 <br/><br/>
 
 ﹏﹏﹏﹏﹏﹏﹏
