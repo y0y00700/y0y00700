@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/>
 <h3>Welcome to My Repositary 🥳</h3><br/>
-안녕하세요! 신입개발자를 꿈꾸는 권민혁입니다!<br/>
+안녕하세요! 웹 개발자 권민혁입니다!<br/>
 만나서 반갑습니다 :)<br/>
 <h3>Contact</h3>
  <p>Email : k509626@gmail.com</p>
