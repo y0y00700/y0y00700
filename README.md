@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <p>Email : k509626@gmail.com</p>
  <p>GitHub : https://github.com/y0y00700</p>
  <p>PortFolio : https://y0y00700.github.io/devportfolio/</p>
- <p>velog:https://k509626.tistory.com</p>
+ <p>Velog:https://k509626.tistory.com</p>
 <br/><br/>
 
 ﹏﹏﹏﹏﹏﹏﹏
