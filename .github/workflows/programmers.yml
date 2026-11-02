@@ -1,0 +1,48 @@
+name: Update Programmers growth
+
+on:
+  schedule:
+    # 15:17 UTC = 00:17 KST the following day.
+    - cron: '17 15 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/programmers.yml'
+      - 'scripts/update_programmers.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: programmers-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'y0y00700/y0y00700' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13'
+      - name: Collect current badge and render growth chart
+        run: python scripts/update_programmers.py
+      - name: Commit updated history
+        run: |
+          git add data/programmers-history.csv assets/programmers-growth.svg
+          if git diff --cached --quiet; then
+            echo "No new statistics to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update Programmers growth record"
+          git pull --rebase origin main
+          git push origin HEAD:main

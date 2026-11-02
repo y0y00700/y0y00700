@@ -45,9 +45,33 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+<br/>
+
+<!-- PROGRAMMERS:START -->
+<h3>🧩 Programmers</h3>
+
+<p>
+  <a href="https://api.programmers-badge.jh8459.com/badge/8d0c133e8ea9.svg">
+    <img src="https://api.programmers-badge.jh8459.com/badge/8d0c133e8ea9.svg" alt="프로그래머스 풀이 통계" width="350"/>
+  </a>
+</p>
+
+<p>
+  <img src="./assets/programmers-growth.svg" alt="프로그래머스 누적 문제 풀이 성장 기록" width="720"/>
+</p>
+
+<p>2026-11-02부터 성장 기록을 쌓고 있습니다 🌱</p>
+<p>
+  <a href="https://github.com/y0y00700/algorithm">문제 풀이 코드</a> ·
+  <a href="./data/programmers-history.csv">날짜별 기록</a> ·
+  <a href="./docs/programmers.md">갱신 안내</a>
+</p>
+<!-- PROGRAMMERS:END -->
 </div>
 
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
 
