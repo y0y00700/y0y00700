@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="370" viewBox="0 0 720 370" role="img" aria-labelledby="title desc">
 <title id="title">프로그래머스 누적 문제 풀이 성장 기록</title>
-<desc id="desc">누적 2문제 · 기록 시작 이후 +1문제 · 3일 기록. 2026-11-02부터 2026-11-04까지 수집한 통계입니다. 날짜 사이 선은 관측값을 연결하며 미수집일의 풀이를 뜻하지 않습니다.</desc>
+<desc id="desc">누적 4문제 · 기록 시작 이후 +3문제 · 4일 기록. 2026-11-02부터 2026-11-05까지 수집한 통계입니다. 날짜 사이 선은 관측값을 연결하며 미수집일의 풀이를 뜻하지 않습니다.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Malgun Gothic",sans-serif;fill:#334155}.muted{fill:#64748b;font-size:12px}.tick{fill:#64748b;font-size:11px}</style>
 <rect x=".5" y=".5" width="719" height="369" rx="16" fill="#fff" stroke="#e2e8f0"/>
 <text x="32" y="38" font-size="20" font-weight="700">프로그래머스 성장 기록</text>
-<text x="32" y="65" font-size="14">누적 2문제 · 기록 시작 이후 +1문제 · 3일 기록</text>
-<text x="32" y="91" class="muted">Score 1,003 · Skill 1 · Rank 371,597</text>
+<text x="32" y="65" font-size="14">누적 4문제 · 기록 시작 이후 +3문제 · 4일 기록</text>
+<text x="32" y="91" class="muted">Score 1,012 · Skill 1 · Rank 321,024</text>
 <text x="32" y="120" class="muted">누적 풀이 수</text>
 <line x1="64" y1="280.00" x2="680" y2="280.00" stroke="#e2e8f0"/>
 <text x="52" y="284.00" text-anchor="end" class="tick">0</text>
@@ -19,11 +19,12 @@
 <text x="52" y="172.00" text-anchor="end" class="tick">4</text>
 <line x1="64" y1="140.00" x2="680" y2="140.00" stroke="#e2e8f0"/>
 <text x="52" y="144.00" text-anchor="end" class="tick">5</text>
-<polyline points="64.00,252.00 372.00,252.00 680.00,224.00" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="64.00,252.00 269.33,252.00 474.67,224.00 680.00,168.00" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
 <circle cx="64.00" cy="252.00" r="3" fill="#2563eb"><title>2026-11-02: 1문제</title></circle>
-<circle cx="372.00" cy="252.00" r="3" fill="#2563eb"><title>2026-11-03: 1문제</title></circle>
-<circle cx="680.00" cy="224.00" r="3" fill="#2563eb"><title>2026-11-04: 2문제</title></circle>
+<circle cx="269.33" cy="252.00" r="3" fill="#2563eb"><title>2026-11-03: 1문제</title></circle>
+<circle cx="474.67" cy="224.00" r="3" fill="#2563eb"><title>2026-11-04: 2문제</title></circle>
+<circle cx="680.00" cy="168.00" r="3" fill="#2563eb"><title>2026-11-05: 4문제</title></circle>
 <text x="64" y="306" class="tick">2026-11-02</text>
-<text x="680" y="306" text-anchor="end" class="tick">2026-11-04</text>
-<text x="32" y="346" class="muted">마지막 수집 2026-11-04 06:00 KST · 공개 배지에서 수집한 값</text>
+<text x="680" y="306" text-anchor="end" class="tick">2026-11-05</text>
+<text x="32" y="346" class="muted">마지막 수집 2026-11-05 06:20 KST · 공개 배지에서 수집한 값</text>
 </svg>
