@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90" alt="header" width="100%"/></p>
 
 <div align = "center">
 
@@ -82,4 +82,4 @@ LG 계열사 시스템을 5년간 개발·운영했고,<br/>
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90" alt="footer" width="100%"/></p>
