@@ -5,7 +5,7 @@
 <br/>
 <h3>안녕하세요, Java/Spring 백엔드 개발자 권민혁입니다.</h3>
 LG 계열사 시스템을 5년간 개발·운영했고,<br/>
-지금은 주문·결제·정산처럼 돈이 오가는 서버를 만들고 있습니다.<br/>
+지금은 MSA를 공부하고 있습니다.<br/>
 <h3>Contact</h3>
 <p>Email : <a href="mailto:k509626@gmail.com">k509626@gmail.com</a></p>
 <p>GitHub : <a href="https://github.com/y0y00700">github.com/y0y00700</a></p>
